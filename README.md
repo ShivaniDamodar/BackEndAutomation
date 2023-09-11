@@ -9,9 +9,9 @@ Environment variable Setup
 
  How to clone the project?
 
-	1. Open the IDE (eclipse) and right click in the left (package explorer) pane.
-   
-    	2. Click Import > Git > Projects from Git > Clone URI > Fill Details > Next > Select Import as general project > Next > Finish.
+		1. Open the IDE (eclipse) and right click in the left (package explorer) pane.
+	   
+	    	2. Click Import > Git > Projects from Git > Clone URI > Fill Details > Next > Select Import as general project > Next > Finish.
 
  How to run the project?
 	 
